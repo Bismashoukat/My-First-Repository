@@ -1,3 +1,3 @@
 # my---first---repository.
 This is my first Git Repository.
-Author Bisma -- Shoukat
+Author-- Bisma Shoukat
