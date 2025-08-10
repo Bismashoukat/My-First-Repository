@@ -1,4 +1,4 @@
-# my---first---repository.
+# My-First-Repository
 This is my first Git Repository.
 <br>
 Author-- Bisma Shoukat
